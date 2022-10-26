@@ -7,7 +7,7 @@ app.use(cors())
 const courses = require('./data/courses.json');
 
 app.get('/', (req, res) => {
-  res.send('JavaScrip server is running!')
+  res.send('JavaScrip tutorial server is running!')
 })
 
 app.get('/courses', (req, res)=>{
@@ -22,3 +22,5 @@ app.get('/courses/:id', (req,res)=>{
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+module.exports = app;
