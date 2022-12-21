@@ -20,6 +20,6 @@ app.get('/courses/:id', (req,res)=>{
   })
   
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`ES6 Courses on port ${port}`)
 })
 
