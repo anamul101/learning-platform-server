@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "Lester V. Ingram",
+    "title":"MERN Stack Development",
+    "skills":"MERN, React",
+    "price": 45,
+    "cousre_location":"Online Class",
+    "Lessons":"23 Lessons",
+    "description": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based. Thus, if one knows JavaScript (and JSON), the backend, frontend, and database can be operated easily.",
+    "category": "mern stack",
+    "image": "https://next-lms.amitjs.com/Assets/Images/courses/courses_1.png"
+    },
+    {
+    "id": 2,
+    "name": "Harold K. Henderson",
+    "title":"React Native",
+    "skills":"MERN, React",
+    "price": 50,
+    "cousre_location":"Online Class",
+    "Lessons":"40 Lessons",
+    "description": "React Native is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based. Thus, if one knows JavaScript (and JSON), the backend, frontend, and database can be operated easily.",
+    "category": "mern stack",
+    "image": "https://next-lms.amitjs.com/Assets/Images/courses/courses_2.png"
+    },
+    {
+    "id": 3,
+    "name": "Eric H. Craig",
+    "title":"PHP Cook With Laravel",
+    "skills":"PHP, Laravel",
+    "price": 56,
+    "cousre_location":"Online Class",
+    "Lessons":"35 Lessons",
+    "description": "PHP is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based. Thus, if one knows JavaScript (and JSON), the backend, frontend, and database can be operated easily.",
+    "category": "mern stack",
+    "image": "https://next-lms.amitjs.com/Assets/Images/courses/courses_3.png"
+    },
+    {
+    "id": 4,
+    "name": "Elmer J. Santora",
+    "title":"Core Software",
+    "skills":"Software",
+    "price": 45,
+    "cousre_location":"Online Class",
+    "Lessons":"23 Lessons",
+    "description": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based. Thus, if one knows JavaScript (and JSON), the backend, frontend, and database can be operated easily.",
+    "category": "mern stack",
+    "image": "https://next-lms.amitjs.com/Assets/Images/courses/courses_4.png"
+    },
+    {
+    "id": 5,
+    "name": "Lester V. Ingram",
+    "title":"Landskip Yard Service",
+    "skills":"Metal worker",
+    "price": 75,
+    "cousre_location":"Online Class",
+    "Lessons":"50 Lessons",
+    "description": "Core Software is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based. Thus, if one knows JavaScript (and JSON), the backend, frontend, and database can be operated easily.",
+    "category": "mern stack",
+    "image": "https://next-lms.amitjs.com/Assets/Images/courses/courses_5.png"
+    },
+    {
+    "id": 6,
+    "name": "Linda J. Navarro",
+    "title":"Science And Arts",
+    "skills":"OC Division",
+    "price": 43,
+    "cousre_location":"Online Class",
+    "Lessons":"29 Lessons",
+    "description": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based. Thus, if one knows JavaScript (and JSON), the backend, frontend, and database can be operated easily.",
+    "category": "mern stack",
+    "image": "https://next-lms.amitjs.com/Assets/Images/courses/courses_6.png"
+    }
+]
